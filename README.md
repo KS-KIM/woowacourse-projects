@@ -1,12 +1,10 @@
 # 👨🏻‍💻 woowacourse-projects
 
 <p align="center">
-    <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="40%" />
+    <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="60%" />
 </p>
 
-
-
->  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
+> [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
 
 <br/>
 
@@ -18,11 +16,11 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/lxxjn0/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/209) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/lxxjn0/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/185) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/lxxjn0/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/38) |
+|     Project      |                                   Repository                                   |                                   Pull Request                                   |
+| :--------------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|  숫자 야구 게임  |  [java-baseball-precourse](https://github.com/KS-KIM/java-baseball-precourse)  | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/214)  |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KS-KIM/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/192) |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/KS-KIM/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/46)  |
 
 <br/>
 
@@ -34,9 +32,9 @@
 
 ### 진행 미션
 
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/lxxjn0/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/1) |
+| Project |                            Repository                            |                               Pull Request                               |
+| :-----: | :--------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| 치킨집  | [java-chicken-2019](https://github.com/KS-KIM/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/25) |
 
 <br/>
 
@@ -55,17 +53,14 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/lxxjn0/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/44) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/lxxjn0/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/93) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/lxxjn0/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/161) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/lxxjn0/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/178) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/lxxjn0/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/26) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/lxxjn0/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
-|   체스 / step1   | [java-chess/step1](https://github.com/lxxjn0/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
-|   체스 / step2   | [java-chess/step2](https://github.com/lxxjn0/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
-|   90년생 HTML    |            [html](https://github.com/lxxjn0/html)            | [Pull Request](https://github.com/woowacourse/html/pull/50)  |
+|     Project      |                          Repository                          |                                                       Pull Request                                                       |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+|  문자열 계산기   | [java-calculator](https://github.com/KS-KIM/java-calculator) |                               [1](https://github.com/woowacourse/java-calculator/pull/27)                                |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/KS-KIM/java-racingcar)  |                               [1](https://github.com/woowacourse/java-racingcar/pull/112)                                |
+|       로또       |      [java-lotto](https://github.com/KS-KIM/java-lotto)      |    [1](https://github.com/woowacourse/java-lotto/pull/161) / [2](https://github.com/woowacourse/java-lotto/pull/201)     |
+|      블랙잭      |  [java-blackjack](https://github.com/KS-KIM/java-blackjack)  | [1](https://github.com/woowacourse/java-blackjack/pull/53) / [2](https://github.com/woowacourse/java-blackjack/pull/105) |
+|   체스 / step1   |      [java-chess](https://github.com/KS-KIM/java-chess)      |     [1](https://github.com/woowacourse/java-chess/pull/56) / [2](https://github.com/woowacourse/java-chess/pull/153)     |
+|   90년생 HTML    |            [html](https://github.com/KS-KIM/html)            |                                     [1](https://github.com/woowacourse/html/pull/38)                                     |
 
 <br/>
 
@@ -84,18 +79,15 @@
 
 ### 진행 미션
 
-|       Project        |                          Repository                          |                         Pull Request                         |
-| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/lxxjn0/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/37) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/87) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/lxxjn0/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/lxxjn0/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/209) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/lxxjn0/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/6) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/lxxjn0/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/51) |
-|      Todo List       |        [todolist](https://github.com/lxxjn0/todolist)        |                       comming soon...                        |
+|       Project        |                                     Repository                                     |                                                                                                          Pull Request                                                                                                           |
+| :------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         체스         |                  [jwp-chess](https://github.com/KS-KIM/jwp-chess)                  | [1](https://github.com/woowacourse/jwp-chess/pull/25) / [2](https://github.com/woowacourse/jwp-chess/pull/65) / [3](https://github.com/woowacourse/jwp-chess/pull/117) / [4](https://github.com/woowacourse/jwp-chess/pull/207) |
+|   지하철 정보 관리   |          [atdd-subway-admin](https://github.com/KS-KIM/atdd-subway-admin)          |                                                                                  [1](https://github.com/woowacourse/atdd-subway-admin/pull/37)                                                                                  |
+|   지하철 경로 조회   |           [atdd-subway-path](https://github.com/KS-KIM/atdd-subway-path)           |                                                                                  [1](https://github.com/woowacourse/atdd-subway-path/pull/22)                                                                                   |
+| 지하철 경로 즐겨찾기 |       [atdd-subway-favorite](https://github.com/KS-KIM/atdd-subway-favorite)       |                                                                                [1](https://github.com/woowacourse/atdd-subway-favorite/pull/45)                                                                                 |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KS-KIM/atdd-subway-admin-frontend) |                                                                             [1](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/19)                                                                              |
+|    사용자 이야기     |       [woowa-userstory-2020](https://github.com/KS-KIM/atdd-subway-favorite)       |                                                                                [1](https://github.com/woowacourse/woowa-userstory-2020/pull/32)                                                                                 |
+|      Todo List       |                   [todolist](https://github.com/KS-KIM/todolist)                   |                                                                                      [1](https://github.com/woowacourse/todolist/pull/34)                                                                                       |
 
 <br/>
 
@@ -110,9 +102,14 @@
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
-### 진행 미션
+### 서비스
 
-- comming soon...
+- [Taggle](https://taggle.kr/)
+- [Taggle Chrome Extension](https://chrome.google.com/webstore/detail/taggle/oacdjiemdacpldngplhlklpkeijpjijc)
+
+### Github Repository
+
+- [Taggle](https://github.com/woowacourse-teams/2020-taggle)
 
 <br/>
 
@@ -132,15 +129,24 @@
 
 ### 진행 미션
 
-- comming soon...
+#### HTTP 이해 - 웹 서버 구현
 
-<br/>
+|             Project              |                  Repository                  |                          Pull Request                           |
+| :------------------------------: | :------------------------------------------: | :-------------------------------------------------------------: |
+| 1단계 - HTTP 이해 - 웹 서버 구현 | [jwp-was](https://github.com/KS-KIM/jwp-was) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/123) |
+|  2단계 - HTTP 웹 서버 리팩토링   |               comming soon...                |                         comming soon...                         |
+|   3단계 - 로그인 및 세션 구현    |               comming soon...                |                         comming soon...                         |
+|    4단계 - multi module 적용     |               comming soon...                |                         comming soon...                         |
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+#### 점진적인 리팩터링
 
-### 발표 주제 : 빌드와 배포
-
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
+|             Project             |   Repository    |  Pull Request   |
+| :-----------------------------: | :-------------: | :-------------: |
+| 1단계 - 테스트를 통한 코드 보호 | comming soon... | comming soon... |
+|     2단계 - 서비스 리팩터링     | comming soon... | comming soon... |
+|     3단계 - 양방향을 단방향     | comming soon... | comming soon... |
+|      4단계 - 외부 API 추가      | comming soon... | comming soon... |
+|  5단계 - 관심사 분리 (보너스)   | comming soon... | comming soon... |
 
 <br/>
 
@@ -148,12 +154,12 @@
 
 ### 진행 미션
 
-| Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
-| :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
-|   3   |    내가 꿈꾸는 프로그래머로서의 삶     |                       comming soon...                        |                       comming soon...                        |
-|   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
+| Level |                 Topic                  |                                        Repository                                         |                              Pull Request                               |
+| :---: | :------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/49)  |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/108) |
+|   3   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-3/level3](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level3.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/147) |
+|   4   |       2기 크루들에게 보내는 편지       |                                      comming soon...                                      |                             comming soon...                             |
 
 <br/>
 
@@ -161,31 +167,12 @@
 
 ### 서비스
 
-- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
-- [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
+- [Supp](https://d10qlfpm4ciz64.cloudfront.net/)
+- [Supp 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
 
 ### Github Repository
 
-- [supp](https://github.com/woowa-supp/supp)
-- [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
+- [Supp](https://github.com/woowa-supp/supp)
+- [Supp Chrome Extension](https://github.com/woowa-supp/supp-chrome-extension)
 
 <br/>
-
-## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
-
-### 서비스
-
-- [Javable](https://woowacourse.github.io/javable/)
-
-### Github Repository
-
-- [javable](https://github.com/woowacourse/javable)
-
-### 활동 내용
-
-- [기능 구현 - 블로그 태그 및 페이지 기능](https://github.com/woowacourse/javable/pull/88)
-- [포스팅 - 하나의 테스트 케이스는 단위 기능 중 하나의 시나리오만 테스트하라](https://woowacourse.github.io/javable/2020-04-24/one-test-must-check-one-scenario)
-- [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
-- [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
-- [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
-- [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
