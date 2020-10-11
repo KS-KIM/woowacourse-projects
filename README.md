@@ -134,7 +134,7 @@
 |             Project              |                  Repository                  |                          Pull Request                           |
 | :------------------------------: | :------------------------------------------: | :-------------------------------------------------------------: |
 | 1단계 - HTTP 이해 - 웹 서버 구현 | [jwp-was](https://github.com/KS-KIM/jwp-was) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/123) |
-|  2단계 - HTTP 웹 서버 리팩토링   |               comming soon...                | [Pull Request](https://github.com/woowacourse/jwp-was/pull/158) |
+|  2단계 - HTTP 웹 서버 리팩토링   | [jwp-was](https://github.com/KS-KIM/jwp-was) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/158) |
 |   3단계 - 로그인 및 세션 구현    |               comming soon...                |                         comming soon...                         |
 |    4단계 - multi module 적용     |               comming soon...                |                         comming soon...                         |
 
