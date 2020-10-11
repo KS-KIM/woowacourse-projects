@@ -59,7 +59,7 @@
 | 자동차 경주 게임 |  [java-racingcar](https://github.com/KS-KIM/java-racingcar)  |                               [1](https://github.com/woowacourse/java-racingcar/pull/112)                                |
 |       로또       |      [java-lotto](https://github.com/KS-KIM/java-lotto)      |    [1](https://github.com/woowacourse/java-lotto/pull/156) / [2](https://github.com/woowacourse/java-lotto/pull/201)     |
 |      블랙잭      |  [java-blackjack](https://github.com/KS-KIM/java-blackjack)  | [1](https://github.com/woowacourse/java-blackjack/pull/53) / [2](https://github.com/woowacourse/java-blackjack/pull/105) |
-|   체스 / step1   |      [java-chess](https://github.com/KS-KIM/java-chess)      |     [1](https://github.com/woowacourse/java-chess/pull/56) / [2](https://github.com/woowacourse/java-chess/pull/153)     |
+|   체스 /         |      [java-chess](https://github.com/KS-KIM/java-chess)      |     [1](https://github.com/woowacourse/java-chess/pull/56) / [2](https://github.com/woowacourse/java-chess/pull/153)     |
 |   90년생 HTML    |            [html](https://github.com/KS-KIM/html)            |                                     [1](https://github.com/woowacourse/html/pull/38)                                     |
 
 <br/>
@@ -134,7 +134,7 @@
 |             Project              |                  Repository                  |                          Pull Request                           |
 | :------------------------------: | :------------------------------------------: | :-------------------------------------------------------------: |
 | 1단계 - HTTP 이해 - 웹 서버 구현 | [jwp-was](https://github.com/KS-KIM/jwp-was) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/123) |
-|  2단계 - HTTP 웹 서버 리팩토링   |               comming soon...                |                         comming soon...                         |
+|  2단계 - HTTP 웹 서버 리팩토링   |               comming soon...                | [Pull Request](https://github.com/woowacourse/jwp-was/pull/158) |
 |   3단계 - 로그인 및 세션 구현    |               comming soon...                |                         comming soon...                         |
 |    4단계 - multi module 적용     |               comming soon...                |                         comming soon...                         |
 
