@@ -158,8 +158,8 @@
 | :---: | :------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/49)  |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/108) |
-|   3   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-3/level3](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level3.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/147) |
-|   4   |       2기 크루들에게 보내는 편지       |                                      comming soon...                                      |                             comming soon...                             |
+|   3   |     팀 프로젝트가 나에게 남긴 것      | [woowa-writing-3/level3](https://github.com/KS-KIM/woowa-writing-2/blob/ks-kim/level3.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/147) |
+|   4   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-4/level4](https://github.com/KS-KIM/woowa-writing-2/blob/level4/level4.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/199) |
 
 <br/>
 
